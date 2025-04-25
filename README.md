@@ -21,11 +21,9 @@ I'm yrzd6.
 
 ### My Personal Data
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yrzd6&include_all_commits=true&theme=" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yrzd6&layout=compact&include_all_commits=true&card_width=320" />
-</a>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=yrzd6&show_icons=true&theme=tokyonight&include_all_commits=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yrzd6&include_all_commits=true&theme=tokyonight">
+</p>
 
 </details>
