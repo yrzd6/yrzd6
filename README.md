@@ -8,9 +8,5 @@
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=py,js,html,css,cpp,none,vscode,github,pycharm&perline=5" />
     </a>
-
-    
-![Yrzd6's GitHub stats](https://github-readme-stats.vercel.app/api?username=yrzd6&show_icons=true&include_all_commits=true)
-
     
 </p>
